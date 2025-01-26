@@ -1,0 +1,22 @@
+{
+  "name": "musicaldattings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@telegram-apps/sdk": "^2.11.3",
+    "@vkontakte/vk-bridge": "^2.15.3",
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
